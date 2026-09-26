@@ -38,6 +38,9 @@ Trabalho na ponte entre o processo e a tecnologia: conheço a rotina de quem com
 
 ### 📌 Entregas recentes
 
+- **Aprovação de cadastro por produto** _(em revisão)_: cada produto da solicitação é aprovado ou reprovado sozinho, com o código do ERP e a descrição do produto vinculado, e fica registrado quem decidiu e quando
+- **Solicitação de cadastro de produto** _(em revisão)_: um produto por solicitação, só com marca já cadastrada no ERP e referência padronizada, para o cadastro chegar certo em Compras
+- **Filtros do catálogo com várias escolhas** _(em revisão)_: dá para comparar grupos, seções e classes parecidos na mesma busca, sem refazer o filtro a cada vez
 - **Carrinho de amostras persistente:** a solicitação de amostras deixou de gerar rascunhos vazios, e o carrinho fica salvo até ser finalizado
 - **Aprovação de cadastro de produto:** o motivo aparece completo para quem decide, e a decisão fica registrada (quem aprovou ou reprovou e por quê)
 - **Estoque mínimo:** o estoque disponível passou a bater com o ERP, descontando reservas e locais que não são de venda
